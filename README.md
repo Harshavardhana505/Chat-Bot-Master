@@ -16,5 +16,5 @@ Only 5 people: <ul>
   <li>Javascript</li>
   <li>Css</li> 
   <li>Html</li>
-  <li>Browser</li>
+  <li>Browser Only tested in Chrome and Firefox</li>
 </ul>
