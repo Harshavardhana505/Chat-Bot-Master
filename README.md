@@ -1,6 +1,9 @@
 # Chat-Bot-Master
 A github repo for medium tutorial. <br>
 This is a chatbot Written by <a href="mailto:harshavardhana.holla@gmail.com">Harshavardhana</a>
+
+The chatbot looks like this:
+<img src="https://cdn-images-1.medium.com/max/800/1*XuNVUkfLTQvHypLneA6rqQ.png" alt="ProjImg"></img>
 # Installation
 > git clone github.com/Harshavardhana505/Chat-Bot-Master.git
 
