@@ -15,7 +15,7 @@ For the tutorial visit: https://harshavardhana-holla.medium.com/hi-2945ad29bd93
 
 # Credits
 Only 5 people: <ul>
-  <li><a href="mailto:harshavardhana.holla@gmail.com">Harshavardhana </a></li>
+  <li>Harshavardhana (Author)
   <li>Javascript</li>
   <li>Css</li> 
   <li>Html</li>
